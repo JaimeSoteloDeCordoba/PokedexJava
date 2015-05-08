@@ -1,3 +1,2 @@
-# PokedexJava
- Hazte con todos!
+# Pokedex Hazte con todos!
 
